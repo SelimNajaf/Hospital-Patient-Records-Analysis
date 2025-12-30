@@ -1,7 +1,6 @@
 # Hospital Operations & Financial Performance Analysis in SQL
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=data&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
