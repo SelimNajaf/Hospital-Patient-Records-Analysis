@@ -1,5 +1,10 @@
 # Hospital Operations & Financial Performance Analysis in SQL
 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=data&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+
 ## 1. Executive Summary
 
 This project conducts a deep-dive analysis of a hospital's patient and financial data to uncover critical trends in operational efficiency, cost management, and patient care. By querying a relational database of encounters, procedures, and patient records, this analysis translates raw data into a strategic roadmap for improving the hospital's financial health and standard of care.
